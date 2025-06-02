@@ -2,7 +2,7 @@
 
 ### I'm a Full Stack JS Developer!
 
-- 🌱 I’m learning something new, currently it is Prisma ORM
+- 🌱 I’m learning something new, (currently my goal is AI)
 - ⚡ Fun fact: I play piano 🎹
 - I'm keen on 📸 photography and 🖨 3D Printing (FDM) 
 
@@ -12,3 +12,4 @@ Technologies and Languages:
 - React/Next.js, React Native
 - Git, GitHub Workflows, vscode
 - AWS Services (S3, Transcribe Service, Convert Service, EventBridge, Lambda), Terraform
+- Google Cloud (Firabase, CloudRun)
